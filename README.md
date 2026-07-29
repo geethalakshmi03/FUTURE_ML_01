@@ -74,3 +74,38 @@ A sample customer support ticket dataset containing different ticket categories 
 ## Conclusion
 
 This project demonstrates how Natural Language Processing (NLP) and Machine Learning can help automate customer support ticket management, improving response time and efficiency.
+
+
+
+
+
+# Task 3: Resume / Candidate Screening System
+
+## Objective
+
+Build a Machine Learning system to automatically screen and rank resumes based on a given job role.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* Scikit-learn
+* NLTK / spaCy
+* Jupyter Notebook
+
+## Features
+
+* Resume text cleaning and parsing
+* Skill extraction and matching
+* Candidate ranking based on job role
+* Missing skill identification
+
+## Results
+
+* Successfully ranked candidates based on matching skills.
+* Identified missing skills for each candidate.
+* Selected the best candidate according to the required job skills.
+
+## Conclusion
+
+This project demonstrates how Machine Learning and text analysis can automate resume screening, helping recruiters identify suitable candidates quickly and efficiently.
