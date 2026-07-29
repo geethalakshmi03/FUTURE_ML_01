@@ -35,3 +35,42 @@ The model successfully predicted sales using historical data. The performance wa
 ## Conclusion
 
 This project demonstrates the use of Machine Learning for sales forecasting. Such models help businesses estimate future sales and support better planning and decision-making.
+
+
+
+
+
+# Task 2: Support Ticket Classification
+
+## Objective
+
+Build a machine learning system to automatically classify customer support tickets into categories and assign priority levels.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* Scikit-learn
+* NLTK
+* Jupyter Notebook
+
+## Features
+
+* Text preprocessing
+* Ticket category classification
+* Priority tagging (High / Medium / Low)
+* Model performance evaluation
+
+## Dataset
+
+A sample customer support ticket dataset containing different ticket categories such as Login, Payment, Account, Technical, and Delivery.
+
+## Results
+
+* Successfully classified support tickets into categories.
+* Assigned priority levels based on ticket type.
+* Evaluated the classification model using accuracy.
+
+## Conclusion
+
+This project demonstrates how Natural Language Processing (NLP) and Machine Learning can help automate customer support ticket management, improving response time and efficiency.
